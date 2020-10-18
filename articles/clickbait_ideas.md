@@ -10,3 +10,4 @@ These articles shouldn't really have any content, but need titles that are irres
 - [ ] I migrated my entire IT department back to Windows XP - and then this happened
 - [ ] The Apple announcement that should worry Swift developers
 - [ ] iOS 13 to bring back skeuomorphism amidst falling iPhone sales
+- [ ] What they don’t want you to know about 5G
