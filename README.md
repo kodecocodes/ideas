@@ -1,2 +1,2 @@
 # ideas
-The "ideas" repository for the raywenderlich.com book Mastering Git
+The "ideas" repository for the raywenderlich.com book Git Apprentice.
