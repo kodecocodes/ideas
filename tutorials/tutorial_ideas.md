@@ -1,4 +1,4 @@
 # Tutotial Ideas
 
-- [] Watch Brad Traversy
-- [✔] Finish React Book After Git Apprentice
+- [ ] Watch Brad Traversy
+- [ ] Finish React Book After Git Apprentice
