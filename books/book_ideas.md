@@ -1,10 +1,10 @@
 # Ideas for new book projects
-
-- [ ] Hotubbing by tutorials
+##alpha 11
+- [x] Hotubbing by tutorials
 - [x] Advanced debugging and reverse engineering
-- [ ] Animal husbandry by tutorials
+- [x] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
-- [ ] Mastering git
+- [x] Mastering git
