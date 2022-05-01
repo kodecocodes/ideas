@@ -8,4 +8,3 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
-- [ ] Care and feeding the developers
