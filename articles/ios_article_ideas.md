@@ -6,3 +6,4 @@
 - [ ] You don't understand ML, so don't pretend you do.
 - [ ] The return of springs and struts
 - [ ] Where have all the indies gone?
+- [ ] Life of a Digital Nomad in Seattle
