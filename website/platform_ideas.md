@@ -7,3 +7,4 @@
 - [x] Jump back/forward
 - [x] Remember last watched
 - [ ] 360° video experience
+- [ ] Blockchains with BASIC
