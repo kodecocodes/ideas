@@ -8,3 +8,6 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
+- [ ]Take care to follow the same format as the other entries
+- [x] Mastering git
++- [x] Mastering Git
