@@ -11,3 +11,4 @@
 - [ ]Take care to follow the same format as the other entries
 - [x] Mastering git
 +- [x] Mastering Git
+- [ ] Debugging with the Grace Hopper Method
