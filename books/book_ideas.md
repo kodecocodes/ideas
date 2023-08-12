@@ -1,6 +1,6 @@
 # Ideas for new book projects
 
-- [ ] Hotubbing by tutorials
+- [X] Hotubbing by tutorials
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [x] Care and feeding of developers
+- [ ] New Idea
