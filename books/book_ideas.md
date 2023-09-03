@@ -8,5 +8,10 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [x] Mastering git
+<<<<<<< HEAD
 - [x] Care and feeding of developers
 - [ ] New Idea
+=======
+- [ ] Care and feeding of developers
+- [ ] Debugging with the Grace Hopper Method
+>>>>>>> 22d9abd3c7752d9b77ad1be1ce1d53cac47530ef
