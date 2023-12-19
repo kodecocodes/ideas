@@ -1,0 +1,53 @@
+*   [33md7116cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Merge branch 'clickbait'
+[31m|[m[32m\[m  
+[31m|[m * [33mfbe86a2[m[33m ([m[1;31mcrispy8888/clickbait[m[33m, [m[1;32mclickbait[m[33m)[m Added another clickbait idea
+[31m|[m * [33me69a76a[m Adding suggestions from Mic
+[31m|[m * [33m5096c54[m Adding first batch of clickbait ideas
+* [32m|[m   [33m323dbfc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/Momat2023/ideas
+[33m|[m[34m\[m [32m\[m  
+[33m|[m * [32m|[m [33m9ce0337[m Update tutorials_ideas.md
+* [34m|[m [32m|[m [33md52d780[m Add a newline into the book_ideas file.
+[34m|[m[34m/[m [32m/[m  
+* [32m|[m   [33m9076518[m Merge branch 'contact-details'
+[35m|[m[36m\[m [32m\[m  
+[35m|[m * [32m|[m [33mcc342bf[m Modify the README file.
+[35m|[m[35m/[m [32m/[m  
+* [32m|[m [33m2a09389[m Adding more detail to the README file
+* [32m|[m [33mc005c05[m Adding .gitignore files and HTML
+* [32m|[m [33m2443d70[m Adds all the good ideas about management
+* [32m|[m [33meae0c0f[m Removes terrible live streaming ideas
+* [32m|[m [33m17f8e49[m Moves platform ideas to website directory
+* [32m|[m [33ma7db290[m Updates book ideas for Symbian and MOS 6510
+* [32m|[m [33m8397742[m Create a new file.
+* [32m|[m [33m2f747d0[m Adding empty tutorials directory
+* [32m|[m [33m94cf2e2[m q!
+* [32m|[m [33mf65a790[m Updated README.md to reflect current working book title.
+[36m|[m [32m|[m *   [33m22d9abd[m[33m ([m[1;31mcrispy8888/master[m[33m)[m Merge branch 'master' of https://github.com/crispy8888/ideas into master
+[36m|[m [32m|[m [1;31m|[m[1;32m\[m  
+[36m|[m [32m|[m [1;31m|[m * [33mf550fed[m Update tutorial_ideas.md
+[36m|[m [32m|[m * [1;32m|[m [33mf9278e6[m Adding debugging book idea
+[36m|[m [32m|[m [1;32m|[m[1;32m/[m  
+[36m|[m [32m|[m * [33mac21935[m Adding .gitignore files and HTML
+[36m|[m [32m|[m * [33m3113a85[m Adds all the good ideas about management
+[36m|[m [32m|[m * [33m600f9d0[m Removes terrible live streaming ideas
+[36m|[m [32m|[m * [33m21fcb3e[m Moves platform ideas to website directory
+[36m|[m [32m|[m * [33m1cf3481[m Updates book ideas for Symbian and MOS 6510
+[36m|[m [32m|[m * [33m3ddfe7c[m Adding some tutorial ideas
+[36m|[m [32m|[m * [33mc689d66[m Adding empty tutorials directory
+[36m|[m [32m|[m * [33m13d9709[m Added new book entry and marked Git book as complete
+[36m|[m [32m|[m[36m/[m  
+[36m|[m[36m/[m[32m|[m   
+* [32m|[m [33mc470849[m Going to try this livestreaming thing
+* [32m|[m [33m629cc4d[m Some scratch ideas for the iOS team
+[32m|[m[32m/[m  
+* [33mfbc46d3[m Adding files for article ideas
+*   [33m5fcdc0e[m Merge branch 'video_team'
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33mcfbbca3[m Removing brain download as per ethics committee
+[1;33m|[m * [33mc596774[m Adding some video platform ideas
+[1;33m|[m * [33m06f468e[m Adding content ideas for videos
+* [1;34m|[m [33m39c26dd[m I should write a book on git someday
+* [1;34m|[m [33m43b4998[m Adding book ideas file
+[1;34m|[m[1;34m/[m  
+* [33mbecd762[m Creating the directory structure
+* [33m7393822[m Initial commit
