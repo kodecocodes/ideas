@@ -1,3 +1,2 @@
 # ideas
-The "ideas" repository for the raywenderlich.com book Git Apprentice.
-by Aayusha
+Just checking the details
